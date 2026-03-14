@@ -3,9 +3,9 @@
 An immersive Unreal Engine 5 game project featuring a dynamic ecosystem with unique characters, skill progression, and environmental interactions.
 
 ## 🎨 Screenshots
-![Gameplay Character](Images/CharacterMap.jpg)
-![Gameplay Fly Character](Images/FlyCharacter.jpg)
-![UI Select Character](Images/SelectCharacter.jpg)
+![Gameplay Character](Images/CharacterMap.png)
+![Gameplay Fly Character](Images/FlyCharacter.png)
+![UI Select Character](Images/SelectCharacter.png)
 
 ## 🎮 Overview
 
