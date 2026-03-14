@@ -6,7 +6,7 @@ An immersive Unreal Engine 5 game project featuring a dynamic ecosystem with uni
 
 ## 🎮 Overview
 
-The Yuvea Project is a comprehensive UE5 game framework that demonstrates advanced gameplay mechanics including:
+DinoSurvival is a comprehensive UE5 game framework that demonstrates advanced gameplay mechanics including:
 - Multi-character selection system with detailed preview
 - Dynamic skill tree with interactive nodes
 - Environmental interaction zones (eating, water)
@@ -48,7 +48,7 @@ Built with Unreal Engine 5, featuring:
 
 ## 📁 Project Structure
 ```
-/The_Yuvea_Project
+/DinoSurvival-Prototype
 ├── /Characters       # Character implementations
 ├── /Animators        # Animation blueprints
 ├── /Controllers      # Player and game logic controllers
